@@ -1,0 +1,22 @@
+#countLabel{
+    display: block;
+    font-size: 100px;
+    color: red;
+
+}
+body{
+    background-color: cornflowerblue;
+}
+#resetbtn,#increasebtn,#decreasebtn{
+font-size: 30px;
+text-align: center;
+justify-content: center;
+border-radius: 10px;
+background-color: hotpink;
+border-color: blueviolet;
+}
+.class{
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
